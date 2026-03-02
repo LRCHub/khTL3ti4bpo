@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "lovin'",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-03-02T14:30:46.966808Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Huntin', Fishin' And Lovin' Every Day",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/01_Huntin',_Fishin'_And_Lovin'_Every_Day_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lovin' On You",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/02_Lovin'_On_You_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chance of Lovin' You",
+      "artist": "Earl Thomas Conley",
+      "has_synced": true,
+      "path": "select/03_Chance_of_Lovin'_You_Earl_Thomas_Conley.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Country Boy Lovin'",
+      "artist": "Dillon Carmichael",
+      "has_synced": true,
+      "path": "select/04_Country_Boy_Lovin'_Dillon_Carmichael.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Come Home a Drinkin' (With Lovin' On Your Mind) - Single Version",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/05_Don't_Come_Home_a_Drinkin'_(With_Lovin'_On_Your_Mind)_-_Single_Version_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't Come Home A-Drinkin' (With Lovin' On Your Mind) (Single Version)",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/06_Don't_Come_Home_A-Drinkin'_(With_Lovin'_On_Your_Mind)_(Single_Version)_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Come Home A-Drinkin' (With Lovin' On Your Mind) (Single Version)",
+      "artist": "Loretta Lynn",
+      "has_synced": true,
+      "path": "select/07_Don't_Come_Home_A-Drinkin'_(With_Lovin'_On_Your_Mind)_(Single_Version)_Loretta_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Good Friends, Good Whiskey, Good Lovin'",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": false,
+      "path": "select/08_Good_Friends,_Good_Whiskey,_Good_Lovin'_Hank_Williams,_Jr..txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Lovin' (Makes It Right)",
+      "artist": "Tammy Wynette",
+      "has_synced": false,
+      "path": "select/09_Good_Lovin'_(Makes_It_Right)_Tammy_Wynette.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'll Be Lovin' You",
+      "artist": "Miranda Lambert",
+      "has_synced": false,
+      "path": "select/10_I'll_Be_Lovin'_You_Miranda_Lambert.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If You Ain't Lovin' (You Ain't Livin')",
+      "artist": "Faron Young",
+      "has_synced": true,
+      "path": "select/11_If_You_Ain't_Lovin'_(You_Ain't_Livin')_Faron_Young.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "If You Ain't Lovin' (You Ain't Livin')",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/12_If_You_Ain't_Lovin'_(You_Ain't_Livin')_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "If You Ain't Lovin' (You Ain't Livin') (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/13_If_You_Ain't_Lovin'_(You_Ain't_Livin')_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Just Got Started Lovin' You",
+      "artist": "James Otto",
+      "has_synced": true,
+      "path": "select/14_Just_Got_Started_Lovin'_You_James_Otto.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Just Got Started Lovin' You (Album Version)",
+      "artist": "James Otto",
+      "has_synced": true,
+      "path": "select/15_Just_Got_Started_Lovin'_You_(Album_Version)_James_Otto.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Just a Little Lovin' (Will Go a Long, Long Way)",
+      "artist": "Eddy Arnold",
+      "has_synced": false,
+      "path": "select/16_Just_a_Little_Lovin'_(Will_Go_a_Long,_Long_Way)_Eddy_Arnold.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "lovin'",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_lovin'_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
